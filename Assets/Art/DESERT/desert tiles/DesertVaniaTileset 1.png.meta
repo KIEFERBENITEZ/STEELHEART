@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: d5f9457dce17cdc4da909db5e2a78934
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3362720625531269516
+    second: DesertVaniaTileset 1_0
+  - first:
+      213: -5187946826170124958
+    second: DesertVaniaTileset 1_1
+  - first:
+      213: -149521476638429093
+    second: DesertVaniaTileset 1_2
+  - first:
+      213: 8427766810198224530
+    second: DesertVaniaTileset 1_3
+  - first:
+      213: 3355996799631454131
+    second: DesertVaniaTileset 1_4
+  - first:
+      213: 3543664639312827962
+    second: DesertVaniaTileset 1_5
+  - first:
+      213: -4776534411609191649
+    second: DesertVaniaTileset 1_6
+  - first:
+      213: 7922461736980303456
+    second: DesertVaniaTileset 1_7
+  - first:
+      213: -5151241370906968167
+    second: DesertVaniaTileset 1_8
+  - first:
+      213: 7580196048316124509
+    second: DesertVaniaTileset 1_9
+  - first:
+      213: 2815970385990691092
+    second: DesertVaniaTileset 1_10
+  - first:
+      213: -7435556738591430665
+    second: DesertVaniaTileset 1_11
+  - first:
+      213: 4969443259912237440
+    second: DesertVaniaTileset 1_12
+  - first:
+      213: -9188432509701092032
+    second: DesertVaniaTileset 1_13
+  - first:
+      213: -7502060856457819691
+    second: DesertVaniaTileset 1_14
+  - first:
+      213: -7901856605903384807
+    second: DesertVaniaTileset 1_15
+  - first:
+      213: -541372959835126431
+    second: DesertVaniaTileset 1_16
+  - first:
+      213: 6537967715452738679
+    second: DesertVaniaTileset 1_17
+  - first:
+      213: 7570655948275238849
+    second: DesertVaniaTileset 1_18
+  - first:
+      213: 4047792641761982295
+    second: DesertVaniaTileset 1_19
+  - first:
+      213: -4862859240931660324
+    second: DesertVaniaTileset 1_20
+  - first:
+      213: -495055532769512434
+    second: DesertVaniaTileset 1_21
+  - first:
+      213: 2379201203957818447
+    second: DesertVaniaTileset 1_22
+  - first:
+      213: -2729957422796597554
+    second: DesertVaniaTileset 1_23
+  - first:
+      213: 9768244892184977
+    second: DesertVaniaTileset 1_24
+  - first:
+      213: -7583985808885212406
+    second: DesertVaniaTileset 1_25
+  - first:
+      213: 3794863613403918194
+    second: DesertVaniaTileset 1_26
+  - first:
+      213: 6381533516183497111
+    second: DesertVaniaTileset 1_27
+  - first:
+      213: 7202490398365153511
+    second: DesertVaniaTileset 1_28
+  - first:
+      213: 3957720258967717315
+    second: DesertVaniaTileset 1_29
+  - first:
+      213: -2653199444075630816
+    second: DesertVaniaTileset 1_30
+  - first:
+      213: 3017719278444010338
+    second: DesertVaniaTileset 1_31
+  - first:
+      213: -5225582031841143235
+    second: DesertVaniaTileset 1_32
+  - first:
+      213: 474530947052218895
+    second: DesertVaniaTileset 1_33
+  - first:
+      213: -4241222854941238002
+    second: DesertVaniaTileset 1_34
+  - first:
+      213: -2823514957546794959
+    second: DesertVaniaTileset 1_35
+  - first:
+      213: -4388782390447549306
+    second: DesertVaniaTileset 1_36
+  - first:
+      213: 4246403969633267332
+    second: DesertVaniaTileset 1_37
+  - first:
+      213: -79740610641394955
+    second: DesertVaniaTileset 1_38
+  - first:
+      213: -6857165553690423423
+    second: DesertVaniaTileset 1_39
+  - first:
+      213: 5482862056048623401
+    second: DesertVaniaTileset 1_40
+  - first:
+      213: -3792916347167729576
+    second: DesertVaniaTileset 1_41
+  - first:
+      213: 351727193284515750
+    second: DesertVaniaTileset 1_42
+  - first:
+      213: 7147029409299365210
+    second: DesertVaniaTileset 1_43
+  - first:
+      213: 1899957445632215156
+    second: DesertVaniaTileset 1_44
+  - first:
+      213: 3423338688637000875
+    second: DesertVaniaTileset 1_45
+  - first:
+      213: -8179371394346668897
+    second: DesertVaniaTileset 1_46
+  - first:
+      213: -8828725347323253652
+    second: DesertVaniaTileset 1_47
+  - first:
+      213: -2681144216983464100
+    second: DesertVaniaTileset 1_48
+  - first:
+      213: -3736494333747488102
+    second: DesertVaniaTileset 1_49
+  - first:
+      213: 2089128366873869825
+    second: DesertVaniaTileset 1_50
+  - first:
+      213: -8351187351694774405
+    second: DesertVaniaTileset 1_51
+  - first:
+      213: 9212208157928968547
+    second: DesertVaniaTileset 1_52
+  - first:
+      213: 1880039264223300865
+    second: DesertVaniaTileset 1_53
+  - first:
+      213: 2327860512532583402
+    second: DesertVaniaTileset 1_54
+  - first:
+      213: -6919597592567417204
+    second: DesertVaniaTileset 1_55
+  - first:
+      213: 6166336733842182735
+    second: DesertVaniaTileset 1_56
+  - first:
+      213: 6766927930920857081
+    second: DesertVaniaTileset 1_57
+  - first:
+      213: 8281376153401199726
+    second: DesertVaniaTileset 1_58
+  - first:
+      213: 7602829679730071710
+    second: DesertVaniaTileset 1_59
+  - first:
+      213: 5989328723932179434
+    second: DesertVaniaTileset 1_60
+  - first:
+      213: 576941921524604114
+    second: DesertVaniaTileset 1_61
+  - first:
+      213: 4690308359950492202
+    second: DesertVaniaTileset 1_62
+  - first:
+      213: -2350374477682569784
+    second: DesertVaniaTileset 1_63
+  - first:
+      213: 5344426721401219485
+    second: DesertVaniaTileset 1_64
+  - first:
+      213: 7080225549633436884
+    second: DesertVaniaTileset 1_65
+  - first:
+      213: -8070646757405395630
+    second: DesertVaniaTileset 1_66
+  - first:
+      213: -7104955328414012832
+    second: DesertVaniaTileset 1_67
+  - first:
+      213: 8636423414350178949
+    second: DesertVaniaTileset 1_68
+  - first:
+      213: -3488573886074771637
+    second: DesertVaniaTileset 1_69
+  - first:
+      213: 4129098794951300454
+    second: DesertVaniaTileset 1_70
+  - first:
+      213: -2959184028642384519
+    second: DesertVaniaTileset 1_71
+  - first:
+      213: -5518851146423949139
+    second: DesertVaniaTileset 1_72
+  - first:
+      213: -4447353436905328100
+    second: DesertVaniaTileset 1_73
+  - first:
+      213: -6825809084639925343
+    second: DesertVaniaTileset 1_74
+  - first:
+      213: 5003871598012983043
+    second: DesertVaniaTileset 1_75
+  - first:
+      213: -470755527198260995
+    second: DesertVaniaTileset 1_76
+  - first:
+      213: 1534012361144291714
+    second: DesertVaniaTileset 1_77
+  - first:
+      213: -7340391198998216424
+    second: DesertVaniaTileset 1_78
+  - first:
+      213: -9069838496890193473
+    second: DesertVaniaTileset 1_79
+  - first:
+      213: -529335808337169423
+    second: DesertVaniaTileset 1_80
+  - first:
+      213: -6350657290612641571
+    second: DesertVaniaTileset 1_81
+  - first:
+      213: -1683229039242710359
+    second: DesertVaniaTileset 1_82
+  - first:
+      213: -4482990204083752378
+    second: DesertVaniaTileset 1_83
+  - first:
+      213: -4202644484494819791
+    second: DesertVaniaTileset 1_84
+  - first:
+      213: -2503609324895734016
+    second: DesertVaniaTileset 1_85
+  - first:
+      213: 1877672135882820122
+    second: DesertVaniaTileset 1_86
+  - first:
+      213: -4081886370699889856
+    second: DesertVaniaTileset 1_87
+  - first:
+      213: -2567151422533989102
+    second: DesertVaniaTileset 1_88
+  - first:
+      213: -2033675326921651816
+    second: DesertVaniaTileset 1_89
+  - first:
+      213: -6200802599951247051
+    second: DesertVaniaTileset 1_90
+  - first:
+      213: -4968184941340148168
+    second: DesertVaniaTileset 1_91
+  - first:
+      213: -4593196996928710909
+    second: DesertVaniaTileset 1_92
+  - first:
+      213: -2211269576151631593
+    second: DesertVaniaTileset 1_93
+  - first:
+      213: 6812190720557765665
+    second: DesertVaniaTileset 1_94
+  - first:
+      213: -3996027178873969711
+    second: DesertVaniaTileset 1_95
+  - first:
+      213: -4448542482281747630
+    second: DesertVaniaTileset 1_96
+  - first:
+      213: -4680819855164560956
+    second: DesertVaniaTileset 1_97
+  - first:
+      213: 3186357783966042018
+    second: DesertVaniaTileset 1_98
+  - first:
+      213: 3359513945567297630
+    second: DesertVaniaTileset 1_99
+  - first:
+      213: -7751390021619736212
+    second: DesertVaniaTileset 1_100
+  - first:
+      213: 5475707030625472148
+    second: DesertVaniaTileset 1_101
+  - first:
+      213: 8499111000735816395
+    second: DesertVaniaTileset 1_102
+  - first:
+      213: 8500126786524538944
+    second: DesertVaniaTileset 1_103
+  - first:
+      213: 1186351946003199960
+    second: DesertVaniaTileset 1_104
+  - first:
+      213: -188608876142390327
+    second: DesertVaniaTileset 1_105
+  - first:
+      213: -4843042772624755456
+    second: DesertVaniaTileset 1_106
+  - first:
+      213: 6776534740575521876
+    second: DesertVaniaTileset 1_107
+  - first:
+      213: -8245430944105687140
+    second: DesertVaniaTileset 1_108
+  - first:
+      213: -2525031285432365716
+    second: DesertVaniaTileset 1_109
+  - first:
+      213: 3386583515013418689
+    second: DesertVaniaTileset 1_110
+  - first:
+      213: 506963480948215698
+    second: DesertVaniaTileset 1_111
+  - first:
+      213: 6940444224965318682
+    second: DesertVaniaTileset 1_112
+  - first:
+      213: -7088002690580450837
+    second: DesertVaniaTileset 1_113
+  - first:
+      213: 3719069888650055023
+    second: DesertVaniaTileset 1_114
+  - first:
+      213: -3016092416009967874
+    second: DesertVaniaTileset 1_115
+  - first:
+      213: -3276660005426858318
+    second: DesertVaniaTileset 1_116
+  - first:
+      213: 7772942452935167013
+    second: DesertVaniaTileset 1_117
+  - first:
+      213: -8293158534010835427
+    second: DesertVaniaTileset 1_118
+  - first:
+      213: -5883895958116459232
+    second: DesertVaniaTileset 1_119
+  - first:
+      213: 925162399220920892
+    second: DesertVaniaTileset 1_120
+  - first:
+      213: 5445311234373527286
+    second: DesertVaniaTileset 1_121
+  - first:
+      213: -7339629553420530540
+    second: DesertVaniaTileset 1_122
+  - first:
+      213: -1492815043933836924
+    second: DesertVaniaTileset 1_123
+  - first:
+      213: -8143568181794854363
+    second: DesertVaniaTileset 1_124
+  - first:
+      213: 2577874418687654933
+    second: DesertVaniaTileset 1_125
+  - first:
+      213: 3925085141893951962
+    second: DesertVaniaTileset 1_126
+  - first:
+      213: -229049684405958911
+    second: DesertVaniaTileset 1_127
+  - first:
+      213: -5800027500205944175
+    second: DesertVaniaTileset 1_128
+  - first:
+      213: 3474749406179218721
+    second: DesertVaniaTileset 1_129
+  - first:
+      213: 8368375040298811426
+    second: DesertVaniaTileset 1_130
+  - first:
+      213: -3639881218326508297
+    second: DesertVaniaTileset 1_131
+  - first:
+      213: -5896373779188852853
+    second: DesertVaniaTileset 1_132
+  - first:
+      213: -5049974620123998315
+    second: DesertVaniaTileset 1_133
+  - first:
+      213: 4492283677570500463
+    second: DesertVaniaTileset 1_134
+  - first:
+      213: -6250482766885574302
+    second: DesertVaniaTileset 1_135
+  - first:
+      213: 4245702832030891675
+    second: DesertVaniaTileset 1_136
+  - first:
+      213: 4377689843312416267
+    second: DesertVaniaTileset 1_137
+  - first:
+      213: 6082263493016242478
+    second: DesertVaniaTileset 1_138
+  - first:
+      213: -7045430547689155595
+    second: DesertVaniaTileset 1_139
+  - first:
+      213: -3219370768013225698
+    second: DesertVaniaTileset 1_140
+  - first:
+      213: -8820103462255214652
+    second: DesertVaniaTileset 1_141
+  - first:
+      213: -2587499914309211628
+    second: DesertVaniaTileset 1_142
+  - first:
+      213: 3314289169570244011
+    second: DesertVaniaTileset 1_143
+  - first:
+      213: 6120725018672331001
+    second: DesertVaniaTileset 1_144
+  - first:
+      213: 4612212854009973975
+    second: DesertVaniaTileset 1_145
+  - first:
+      213: -3991826198705988026
+    second: DesertVaniaTileset 1_146
+  - first:
+      213: -3434121873696057413
+    second: DesertVaniaTileset 1_147
+  - first:
+      213: 2748526214306093537
+    second: DesertVaniaTileset 1_148
+  - first:
+      213: 2619563106753073297
+    second: DesertVaniaTileset 1_149
+  - first:
+      213: -8842929786864183115
+    second: DesertVaniaTileset 1_150
+  - first:
+      213: 793323422466761532
+    second: DesertVaniaTileset 1_151
+  - first:
+      213: -4217627124490851419
+    second: DesertVaniaTileset 1_152
+  - first:
+      213: -489385887233209833
+    second: DesertVaniaTileset 1_153
+  - first:
+      213: -3178037289556420977
+    second: DesertVaniaTileset 1_154
+  - first:
+      213: 383529248819799715
+    second: DesertVaniaTileset 1_155
+  - first:
+      213: 1409896731851438819
+    second: DesertVaniaTileset 1_156
+  - first:
+      213: 9205115276366279244
+    second: DesertVaniaTileset 1_157
+  - first:
+      213: -6447113789206491607
+    second: DesertVaniaTileset 1_158
+  - first:
+      213: 6725648850891714341
+    second: DesertVaniaTileset 1_159
+  - first:
+      213: -6996227899196790433
+    second: DesertVaniaTileset 1_160
+  - first:
+      213: 9081250705350979484
+    second: DesertVaniaTileset 1_161
+  - first:
+      213: -919008502825076872
+    second: DesertVaniaTileset 1_162
+  - first:
+      213: 2326042090138726391
+    second: DesertVaniaTileset 1_163
+  - first:
+      213: -7951873431713322157
+    second: DesertVaniaTileset 1_164
+  - first:
+      213: -1651895833212959434
+    second: DesertVaniaTileset 1_165
+  - first:
+      213: 2599702784449785228
+    second: DesertVaniaTileset 1_166
+  - first:
+      213: -1965907424197819411
+    second: DesertVaniaTileset 1_167
+  - first:
+      213: 6009604356628696810
+    second: DesertVaniaTileset 1_168
+  - first:
+      213: -8933103196295363187
+    second: DesertVaniaTileset 1_169
+  - first:
+      213: 6026362284904105321
+    second: DesertVaniaTileset 1_170
+  - first:
+      213: -7138736711675133055
+    second: DesertVaniaTileset 1_171
+  - first:
+      213: -1725738132119729463
+    second: DesertVaniaTileset 1_172
+  - first:
+      213: -8795503277673331244
+    second: DesertVaniaTileset 1_173
+  - first:
+      213: -8267443137759446925
+    second: DesertVaniaTileset 1_174
+  - first:
+      213: -4794903051189134331
+    second: DesertVaniaTileset 1_175
+  - first:
+      213: -2064391898983895461
+    second: DesertVaniaTileset 1_176
+  - first:
+      213: 6676793138418033282
+    second: DesertVaniaTileset 1_177
+  - first:
+      213: -5991587831685066784
+    second: DesertVaniaTileset 1_178
+  - first:
+      213: 1215830458979604994
+    second: DesertVaniaTileset 1_179
+  - first:
+      213: 6371237027496411141
+    second: DesertVaniaTileset 1_180
+  - first:
+      213: 107162131718566948
+    second: DesertVaniaTileset 1_181
+  - first:
+      213: -981648657770116787
+    second: DesertVaniaTileset 1_182
+  - first:
+      213: 156828639675099873
+    second: DesertVaniaTileset 1_183
+  - first:
+      213: 506461270760837509
+    second: DesertVaniaTileset 1_184
+  - first:
+      213: -4459409241660460640
+    second: DesertVaniaTileset 1_185
+  - first:
+      213: -3757792398053102495
+    second: DesertVaniaTileset 1_186
+  - first:
+      213: 1997120525445082037
+    second: DesertVaniaTileset 1_187
+  - first:
+      213: -4344749249025692503
+    second: DesertVaniaTileset 1_188
+  - first:
+      213: 1503315094197541516
+    second: DesertVaniaTileset 1_189
+  - first:
+      213: 58410026464279186
+    second: DesertVaniaTileset 1_190
+  - first:
+      213: -3709810416147393293
+    second: DesertVaniaTileset 1_191
+  - first:
+      213: -9122050684451531683
+    second: DesertVaniaTileset 1_192
+  - first:
+      213: -8244859335033150297
+    second: DesertVaniaTileset 1_193
+  - first:
+      213: -8495208040888547147
+    second: DesertVaniaTileset 1_194
+  - first:
+      213: 8042972198131233332
+    second: DesertVaniaTileset 1_195
+  - first:
+      213: 6004364192889711811
+    second: DesertVaniaTileset 1_196
+  - first:
+      213: -6257503416089915267
+    second: DesertVaniaTileset 1_197
+  - first:
+      213: 6127592267348313333
+    second: DesertVaniaTileset 1_198
+  - first:
+      213: 6726591938289569101
+    second: DesertVaniaTileset 1_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e445458673551d0800000000000000
+      internalID: -3362720625531269516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b38839d5b008b0800000000000000
+      internalID: -5187946826170124958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 170
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50bcaa520bccedf0800000000000000
+      internalID: -149521476638429093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e21bbf24175f470800000000000000
+      internalID: 8427766810198224530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf6165fe45e29e20800000000000000
+      internalID: 3355996799631454131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369a5dd630ad2130800000000000000
+      internalID: 3543664639312827962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 94
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bca92824756bdb0800000000000000
+      internalID: -4776534411609191649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 87
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec55b89fc32fd60800000000000000
+      internalID: 7922461736980303456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 73
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f3bcef34d1388b0800000000000000
+      internalID: -5151241370906968167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc3b3f424423960800000000000000
+      internalID: 7580196048316124509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesertVaniaTileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 84
+        width: 11
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f20c8c4654b4eef0800000000000000
+      internalID: -79740610641394955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9df22c201a59a640920c7766f928bdc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DesertVaniaTileset 1_0: -3362720625531269516
+      DesertVaniaTileset 1_1: -5187946826170124958
+      DesertVaniaTileset 1_10: 2815970385990691092
+      DesertVaniaTileset 1_100: -7751390021619736212
+      DesertVaniaTileset 1_101: 5475707030625472148
+      DesertVaniaTileset 1_102: 8499111000735816395
+      DesertVaniaTileset 1_103: 8500126786524538944
+      DesertVaniaTileset 1_104: 1186351946003199960
+      DesertVaniaTileset 1_105: -188608876142390327
+      DesertVaniaTileset 1_106: -4843042772624755456
+      DesertVaniaTileset 1_107: 6776534740575521876
+      DesertVaniaTileset 1_108: -8245430944105687140
+      DesertVaniaTileset 1_109: -2525031285432365716
+      DesertVaniaTileset 1_11: -7435556738591430665
+      DesertVaniaTileset 1_110: 3386583515013418689
+      DesertVaniaTileset 1_111: 506963480948215698
+      DesertVaniaTileset 1_112: 6940444224965318682
+      DesertVaniaTileset 1_113: -7088002690580450837
+      DesertVaniaTileset 1_114: 3719069888650055023
+      DesertVaniaTileset 1_115: -3016092416009967874
+      DesertVaniaTileset 1_116: -3276660005426858318
+      DesertVaniaTileset 1_117: 7772942452935167013
+      DesertVaniaTileset 1_118: -8293158534010835427
+      DesertVaniaTileset 1_119: -5883895958116459232
+      DesertVaniaTileset 1_12: 4969443259912237440
+      DesertVaniaTileset 1_120: 925162399220920892
+      DesertVaniaTileset 1_121: 5445311234373527286
+      DesertVaniaTileset 1_122: -7339629553420530540
+      DesertVaniaTileset 1_123: -1492815043933836924
+      DesertVaniaTileset 1_124: -8143568181794854363
+      DesertVaniaTileset 1_125: 2577874418687654933
+      DesertVaniaTileset 1_126: 3925085141893951962
+      DesertVaniaTileset 1_127: -229049684405958911
+      DesertVaniaTileset 1_128: -5800027500205944175
+      DesertVaniaTileset 1_129: 3474749406179218721
+      DesertVaniaTileset 1_13: -9188432509701092032
+      DesertVaniaTileset 1_130: 8368375040298811426
+      DesertVaniaTileset 1_131: -3639881218326508297
+      DesertVaniaTileset 1_132: -5896373779188852853
+      DesertVaniaTileset 1_133: -5049974620123998315
+      DesertVaniaTileset 1_134: 4492283677570500463
+      DesertVaniaTileset 1_135: -6250482766885574302
+      DesertVaniaTileset 1_136: 4245702832030891675
+      DesertVaniaTileset 1_137: 4377689843312416267
+      DesertVaniaTileset 1_138: 6082263493016242478
+      DesertVaniaTileset 1_139: -7045430547689155595
+      DesertVaniaTileset 1_14: -7502060856457819691
+      DesertVaniaTileset 1_140: -3219370768013225698
+      DesertVaniaTileset 1_141: -8820103462255214652
+      DesertVaniaTileset 1_142: -2587499914309211628
+      DesertVaniaTileset 1_143: 3314289169570244011
+      DesertVaniaTileset 1_144: 6120725018672331001
+      DesertVaniaTileset 1_145: 4612212854009973975
+      DesertVaniaTileset 1_146: -3991826198705988026
+      DesertVaniaTileset 1_147: -3434121873696057413
+      DesertVaniaTileset 1_148: 2748526214306093537
+      DesertVaniaTileset 1_149: 2619563106753073297
+      DesertVaniaTileset 1_15: -7901856605903384807
+      DesertVaniaTileset 1_150: -8842929786864183115
+      DesertVaniaTileset 1_151: 793323422466761532
+      DesertVaniaTileset 1_152: -4217627124490851419
+      DesertVaniaTileset 1_153: -489385887233209833
+      DesertVaniaTileset 1_154: -3178037289556420977
+      DesertVaniaTileset 1_155: 383529248819799715
+      DesertVaniaTileset 1_156: 1409896731851438819
+      DesertVaniaTileset 1_157: 9205115276366279244
+      DesertVaniaTileset 1_158: -6447113789206491607
+      DesertVaniaTileset 1_159: 6725648850891714341
+      DesertVaniaTileset 1_16: -541372959835126431
+      DesertVaniaTileset 1_160: -6996227899196790433
+      DesertVaniaTileset 1_161: 9081250705350979484
+      DesertVaniaTileset 1_162: -919008502825076872
+      DesertVaniaTileset 1_163: 2326042090138726391
+      DesertVaniaTileset 1_164: -7951873431713322157
+      DesertVaniaTileset 1_165: -1651895833212959434
+      DesertVaniaTileset 1_166: 2599702784449785228
+      DesertVaniaTileset 1_167: -1965907424197819411
+      DesertVaniaTileset 1_168: 6009604356628696810
+      DesertVaniaTileset 1_169: -8933103196295363187
+      DesertVaniaTileset 1_17: 6537967715452738679
+      DesertVaniaTileset 1_170: 6026362284904105321
+      DesertVaniaTileset 1_171: -7138736711675133055
+      DesertVaniaTileset 1_172: -1725738132119729463
+      DesertVaniaTileset 1_173: -8795503277673331244
+      DesertVaniaTileset 1_174: -8267443137759446925
+      DesertVaniaTileset 1_175: -4794903051189134331
+      DesertVaniaTileset 1_176: -2064391898983895461
+      DesertVaniaTileset 1_177: 6676793138418033282
+      DesertVaniaTileset 1_178: -5991587831685066784
+      DesertVaniaTileset 1_179: 1215830458979604994
+      DesertVaniaTileset 1_18: 7570655948275238849
+      DesertVaniaTileset 1_180: 6371237027496411141
+      DesertVaniaTileset 1_181: 107162131718566948
+      DesertVaniaTileset 1_182: -981648657770116787
+      DesertVaniaTileset 1_183: 156828639675099873
+      DesertVaniaTileset 1_184: 506461270760837509
+      DesertVaniaTileset 1_185: -4459409241660460640
+      DesertVaniaTileset 1_186: -3757792398053102495
+      DesertVaniaTileset 1_187: 1997120525445082037
+      DesertVaniaTileset 1_188: -4344749249025692503
+      DesertVaniaTileset 1_189: 1503315094197541516
+      DesertVaniaTileset 1_19: 4047792641761982295
+      DesertVaniaTileset 1_190: 58410026464279186
+      DesertVaniaTileset 1_191: -3709810416147393293
+      DesertVaniaTileset 1_192: -9122050684451531683
+      DesertVaniaTileset 1_193: -8244859335033150297
+      DesertVaniaTileset 1_194: -8495208040888547147
+      DesertVaniaTileset 1_195: 8042972198131233332
+      DesertVaniaTileset 1_196: 6004364192889711811
+      DesertVaniaTileset 1_197: -6257503416089915267
+      DesertVaniaTileset 1_198: 6127592267348313333
+      DesertVaniaTileset 1_199: 6726591938289569101
+      DesertVaniaTileset 1_2: -149521476638429093
+      DesertVaniaTileset 1_20: -4862859240931660324
+      DesertVaniaTileset 1_21: -495055532769512434
+      DesertVaniaTileset 1_22: 2379201203957818447
+      DesertVaniaTileset 1_23: -2729957422796597554
+      DesertVaniaTileset 1_24: 9768244892184977
+      DesertVaniaTileset 1_25: -7583985808885212406
+      DesertVaniaTileset 1_26: 3794863613403918194
+      DesertVaniaTileset 1_27: 6381533516183497111
+      DesertVaniaTileset 1_28: 7202490398365153511
+      DesertVaniaTileset 1_29: 3957720258967717315
+      DesertVaniaTileset 1_3: 8427766810198224530
+      DesertVaniaTileset 1_30: -2653199444075630816
+      DesertVaniaTileset 1_31: 3017719278444010338
+      DesertVaniaTileset 1_32: -5225582031841143235
+      DesertVaniaTileset 1_33: 474530947052218895
+      DesertVaniaTileset 1_34: -4241222854941238002
+      DesertVaniaTileset 1_35: -2823514957546794959
+      DesertVaniaTileset 1_36: -4388782390447549306
+      DesertVaniaTileset 1_37: 4246403969633267332
+      DesertVaniaTileset 1_38: -79740610641394955
+      DesertVaniaTileset 1_39: -6857165553690423423
+      DesertVaniaTileset 1_4: 3355996799631454131
+      DesertVaniaTileset 1_40: 5482862056048623401
+      DesertVaniaTileset 1_41: -3792916347167729576
+      DesertVaniaTileset 1_42: 351727193284515750
+      DesertVaniaTileset 1_43: 7147029409299365210
+      DesertVaniaTileset 1_44: 1899957445632215156
+      DesertVaniaTileset 1_45: 3423338688637000875
+      DesertVaniaTileset 1_46: -8179371394346668897
+      DesertVaniaTileset 1_47: -8828725347323253652
+      DesertVaniaTileset 1_48: -2681144216983464100
+      DesertVaniaTileset 1_49: -3736494333747488102
+      DesertVaniaTileset 1_5: 3543664639312827962
+      DesertVaniaTileset 1_50: 2089128366873869825
+      DesertVaniaTileset 1_51: -8351187351694774405
+      DesertVaniaTileset 1_52: 9212208157928968547
+      DesertVaniaTileset 1_53: 1880039264223300865
+      DesertVaniaTileset 1_54: 2327860512532583402
+      DesertVaniaTileset 1_55: -6919597592567417204
+      DesertVaniaTileset 1_56: 6166336733842182735
+      DesertVaniaTileset 1_57: 6766927930920857081
+      DesertVaniaTileset 1_58: 8281376153401199726
+      DesertVaniaTileset 1_59: 7602829679730071710
+      DesertVaniaTileset 1_6: -4776534411609191649
+      DesertVaniaTileset 1_60: 5989328723932179434
+      DesertVaniaTileset 1_61: 576941921524604114
+      DesertVaniaTileset 1_62: 4690308359950492202
+      DesertVaniaTileset 1_63: -2350374477682569784
+      DesertVaniaTileset 1_64: 5344426721401219485
+      DesertVaniaTileset 1_65: 7080225549633436884
+      DesertVaniaTileset 1_66: -8070646757405395630
+      DesertVaniaTileset 1_67: -7104955328414012832
+      DesertVaniaTileset 1_68: 8636423414350178949
+      DesertVaniaTileset 1_69: -3488573886074771637
+      DesertVaniaTileset 1_7: 7922461736980303456
+      DesertVaniaTileset 1_70: 4129098794951300454
+      DesertVaniaTileset 1_71: -2959184028642384519
+      DesertVaniaTileset 1_72: -5518851146423949139
+      DesertVaniaTileset 1_73: -4447353436905328100
+      DesertVaniaTileset 1_74: -6825809084639925343
+      DesertVaniaTileset 1_75: 5003871598012983043
+      DesertVaniaTileset 1_76: -470755527198260995
+      DesertVaniaTileset 1_77: 1534012361144291714
+      DesertVaniaTileset 1_78: -7340391198998216424
+      DesertVaniaTileset 1_79: -9069838496890193473
+      DesertVaniaTileset 1_8: -5151241370906968167
+      DesertVaniaTileset 1_80: -529335808337169423
+      DesertVaniaTileset 1_81: -6350657290612641571
+      DesertVaniaTileset 1_82: -1683229039242710359
+      DesertVaniaTileset 1_83: -4482990204083752378
+      DesertVaniaTileset 1_84: -4202644484494819791
+      DesertVaniaTileset 1_85: -2503609324895734016
+      DesertVaniaTileset 1_86: 1877672135882820122
+      DesertVaniaTileset 1_87: -4081886370699889856
+      DesertVaniaTileset 1_88: -2567151422533989102
+      DesertVaniaTileset 1_89: -2033675326921651816
+      DesertVaniaTileset 1_9: 7580196048316124509
+      DesertVaniaTileset 1_90: -6200802599951247051
+      DesertVaniaTileset 1_91: -4968184941340148168
+      DesertVaniaTileset 1_92: -4593196996928710909
+      DesertVaniaTileset 1_93: -2211269576151631593
+      DesertVaniaTileset 1_94: 6812190720557765665
+      DesertVaniaTileset 1_95: -3996027178873969711
+      DesertVaniaTileset 1_96: -4448542482281747630
+      DesertVaniaTileset 1_97: -4680819855164560956
+      DesertVaniaTileset 1_98: 3186357783966042018
+      DesertVaniaTileset 1_99: 3359513945567297630
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

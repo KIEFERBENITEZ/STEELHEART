@@ -1,0 +1,137 @@
+{ "frames": [
+   {
+    "filename": "enemy #run 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 1.aseprite",
+    "frame": { "x": 100, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 2.aseprite",
+    "frame": { "x": 200, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 3.aseprite",
+    "frame": { "x": 300, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 4.aseprite",
+    "frame": { "x": 400, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 5.aseprite",
+    "frame": { "x": 500, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 6.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 7.aseprite",
+    "frame": { "x": 700, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 8.aseprite",
+    "frame": { "x": 800, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 9.aseprite",
+    "frame": { "x": 900, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 10.aseprite",
+    "frame": { "x": 1000, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 11.aseprite",
+    "frame": { "x": 1100, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 12.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   },
+   {
+    "filename": "enemy #run 13.aseprite",
+    "frame": { "x": 1300, "y": 0, "w": 100, "h": 126 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 126 },
+    "sourceSize": { "w": 100, "h": 126 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.17-x64",
+  "image": "enemy-run.png",
+  "format": "RGBA8888",
+  "size": { "w": 1400, "h": 126 },
+  "scale": "1"
+ }
+}

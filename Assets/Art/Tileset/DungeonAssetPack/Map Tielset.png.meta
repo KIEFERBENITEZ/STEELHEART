@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 760840f6d3eb51c41b7f93ef9200eb09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3782318467409234336
+    second: Map Tielset_0
+  - first:
+      213: -2721202211607529139
+    second: Map Tielset_1
+  - first:
+      213: 1791400005713633559
+    second: Map Tielset_2
+  - first:
+      213: -8493866870536220213
+    second: Map Tielset_3
+  - first:
+      213: 2102407011974993013
+    second: Map Tielset_4
+  - first:
+      213: 7482390350048014191
+    second: Map Tielset_5
+  - first:
+      213: 1715007285229806166
+    second: Map Tielset_6
+  - first:
+      213: 2972444369644854490
+    second: Map Tielset_7
+  - first:
+      213: -8671769732506103164
+    second: Map Tielset_8
+  - first:
+      213: 3630239420144685262
+    second: Map Tielset_9
+  - first:
+      213: -5274602364198042174
+    second: Map Tielset_10
+  - first:
+      213: -2155831401962963662
+    second: Map Tielset_11
+  - first:
+      213: -2515512208651086933
+    second: Map Tielset_12
+  - first:
+      213: -1834717621744190840
+    second: Map Tielset_13
+  - first:
+      213: 4343825658017216084
+    second: Map Tielset_14
+  - first:
+      213: 1582298917319020600
+    second: Map Tielset_15
+  - first:
+      213: -744356081092764742
+    second: Map Tielset_16
+  - first:
+      213: 7527485245261423222
+    second: Map Tielset_17
+  - first:
+      213: 7314708080470069100
+    second: Map Tielset_18
+  - first:
+      213: 7177834876399135830
+    second: Map Tielset_19
+  - first:
+      213: -4213360582597980231
+    second: Map Tielset_20
+  - first:
+      213: -2848440828302005614
+    second: Map Tielset_21
+  - first:
+      213: -8027190503219541576
+    second: Map Tielset_22
+  - first:
+      213: -1202938167882068958
+    second: Map Tielset_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map Tielset_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663caab461828bc0800000000000000
+      internalID: -3782318467409234336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49302f81095c3ad0800000000000000
+      internalID: -2721202211607529139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a13f50d45cd810800000000000000
+      internalID: 1791400005713633559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1da3c6519bf1a80800000000000000
+      internalID: -8493866870536220213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745f02d9004d2d10800000000000000
+      internalID: 2102407011974993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f2c65416ac6d760800000000000000
+      internalID: 7482390350048014191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65264571a0eecc710800000000000000
+      internalID: 1715007285229806166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9a4fc76e304920800000000000000
+      internalID: 2972444369644854490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 50
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825dff8f5fa7a780800000000000000
+      internalID: -8671769732506103164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 146
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0185fc483316230800000000000000
+      internalID: 3630239420144685262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54a868819dcc6b0800000000000000
+      internalID: -5274602364198042174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d7d5213c2f412e0800000000000000
+      internalID: -2155831401962963662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 127
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3913759fa171dd0800000000000000
+      internalID: -2515512208651086933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab9c43b06c986e0800000000000000
+      internalID: -1834717621744190840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456f750eb6e584c30800000000000000
+      internalID: 4343825658017216084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 143
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830194f5b7475f510800000000000000
+      internalID: 1582298917319020600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 95
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb501886148ba5f0800000000000000
+      internalID: -744356081092764742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722dcfb2fff67860800000000000000
+      internalID: 7527485245261423222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f09148e30138560800000000000000
+      internalID: 7314708080470069100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2e205acacc9360800000000000000
+      internalID: 7177834876399135830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4d9b9fd22785c0800000000000000
+      internalID: -4213360582597980231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae659882e4878d0800000000000000
+      internalID: -2848440828302005614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9c53764c0b99090800000000000000
+      internalID: -8027190503219541576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map Tielset_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c41a81c1e4e4fe0800000000000000
+      internalID: -1202938167882068958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d3fe80a3f2b45d4a9fb4762d04114bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Map Tielset_0: -3782318467409234336
+      Map Tielset_1: -2721202211607529139
+      Map Tielset_10: -5274602364198042174
+      Map Tielset_11: -2155831401962963662
+      Map Tielset_12: -2515512208651086933
+      Map Tielset_13: -1834717621744190840
+      Map Tielset_14: 4343825658017216084
+      Map Tielset_15: 1582298917319020600
+      Map Tielset_16: -744356081092764742
+      Map Tielset_17: 7527485245261423222
+      Map Tielset_18: 7314708080470069100
+      Map Tielset_19: 7177834876399135830
+      Map Tielset_2: 1791400005713633559
+      Map Tielset_20: -4213360582597980231
+      Map Tielset_21: -2848440828302005614
+      Map Tielset_22: -8027190503219541576
+      Map Tielset_23: -1202938167882068958
+      Map Tielset_3: -8493866870536220213
+      Map Tielset_4: 2102407011974993013
+      Map Tielset_5: 7482390350048014191
+      Map Tielset_6: 1715007285229806166
+      Map Tielset_7: 2972444369644854490
+      Map Tielset_8: -8671769732506103164
+      Map Tielset_9: 3630239420144685262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

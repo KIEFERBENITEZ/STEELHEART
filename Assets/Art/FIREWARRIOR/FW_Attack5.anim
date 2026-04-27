@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FW_Attack5
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 62967712600224440, guid: e7d3765ed7e23e141be62a5496349d71, type: 3}
+    - time: 0.083333336
+      value: {fileID: -154061035889028134, guid: 4eebf707819f95948ac2b7b253bb7940, type: 3}
+    - time: 0.16666667
+      value: {fileID: 8372377245141219436, guid: bb0b9a0bd51faed49bec842944cc1b85, type: 3}
+    - time: 0.25
+      value: {fileID: 427066930985747199, guid: f2d00a10489da8f4aa12e328038945f5, type: 3}
+    - time: 0.33333334
+      value: {fileID: 1591650209198003942, guid: 131f7afd30dc46741a08f8d05eb69735, type: 3}
+    - time: 0.41666666
+      value: {fileID: -5252042134787839013, guid: fd44f8fad39d89547910fc2c9b93d831, type: 3}
+    - time: 0.5
+      value: {fileID: 4152159358805249119, guid: 852fa2df2da34414790c4da818e440b1, type: 3}
+    - time: 0.5833333
+      value: {fileID: 2390940961743126624, guid: 435c1d2970cba36459e72c3420bc8f23, type: 3}
+    - time: 0.6666667
+      value: {fileID: 2583371559612075924, guid: a1272e36f27b19c468c621a2b829570e, type: 3}
+    - time: 0.75
+      value: {fileID: 3978416525884299200, guid: 1dbcbb3b3d6e64946aa4b1ff5098f395, type: 3}
+    - time: 0.8333333
+      value: {fileID: -6899554366985107334, guid: ac5678626c181d340ba375e9c44f3e9e, type: 3}
+    - time: 0.9166667
+      value: {fileID: 8372377245141219436, guid: bb0b9a0bd51faed49bec842944cc1b85, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 62967712600224440, guid: e7d3765ed7e23e141be62a5496349d71, type: 3}
+    - {fileID: -154061035889028134, guid: 4eebf707819f95948ac2b7b253bb7940, type: 3}
+    - {fileID: 8372377245141219436, guid: bb0b9a0bd51faed49bec842944cc1b85, type: 3}
+    - {fileID: 427066930985747199, guid: f2d00a10489da8f4aa12e328038945f5, type: 3}
+    - {fileID: 1591650209198003942, guid: 131f7afd30dc46741a08f8d05eb69735, type: 3}
+    - {fileID: -5252042134787839013, guid: fd44f8fad39d89547910fc2c9b93d831, type: 3}
+    - {fileID: 4152159358805249119, guid: 852fa2df2da34414790c4da818e440b1, type: 3}
+    - {fileID: 2390940961743126624, guid: 435c1d2970cba36459e72c3420bc8f23, type: 3}
+    - {fileID: 2583371559612075924, guid: a1272e36f27b19c468c621a2b829570e, type: 3}
+    - {fileID: 3978416525884299200, guid: 1dbcbb3b3d6e64946aa4b1ff5098f395, type: 3}
+    - {fileID: -6899554366985107334, guid: ac5678626c181d340ba375e9c44f3e9e, type: 3}
+    - {fileID: 8372377245141219436, guid: bb0b9a0bd51faed49bec842944cc1b85, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.5
+    functionName: DoAttackDamage
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.9166667
+    functionName: ResetAttackIndex
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
