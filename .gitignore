@@ -1,5 +1,20 @@
-Library/ 
-Temp/ 
-Obj/ 
-Logs/ 
-UserSettings/ 
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
