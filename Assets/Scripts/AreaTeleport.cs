@@ -3,26 +3,65 @@ using Unity.Cinemachine;
 
 public class AreaTeleport : MonoBehaviour
 {
-    public CinemachineCamera vcam;      // Drag your CinemachineCamera here
-    public Transform cameraTarget;     // Drag Point2 here
-    public Transform playerSpawnPoint; // Drag Area2_Spawn here
+    public CinemachineCamera vcam;
+    public Transform cameraTarget;
+    public Transform playerSpawnPoint;
+
+    [Header("Gate Settings")]
+    public string enemyTag = "Enemy";
+    public float detectionRadius = 20f; // Only check for enemies near this portal
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        // Check if the thing touching the portal is the Player
         if (other.CompareTag("Player"))
         {
-            // 1. Switch the camera's focus to the new area
+            // 1. Find all enemies in the WHOLE scene
+            GameObject[] allEnemies = GameObject.FindGameObjectsWithTag(enemyTag);
+            bool enemiesNearby = false;
+
+            // 2. Only block the portal if the enemies are close to THIS portal
+            foreach (GameObject enemy in allEnemies)
+            {
+                if (Vector2.Distance(transform.position, enemy.transform.position) < detectionRadius)
+                {
+                    enemiesNearby = true;
+                    break;
+                }
+            }
+
+            if (enemiesNearby)
+            {
+                Debug.Log("Portal Locked! Clear the enemies in this area first.");
+                return;
+            }
+
+            // 3. Teleport Logic
+            TeleportPlayer(other.transform);
+        }
+    }
+
+    void TeleportPlayer(Transform player)
+    {
+        // Move Camera
+        if (vcam != null && cameraTarget != null)
             vcam.Follow = cameraTarget;
 
-            // 2. Physically move the player to the new area
-            other.transform.position = playerSpawnPoint.position;
+        // Move Player
+        player.position = playerSpawnPoint.position;
 
-            // 3. Reset velocity so they don't carry speed from the jump/run
-            if (other.TryGetComponent<Rigidbody2D>(out Rigidbody2D rb))
-            {
-                rb.linearVelocity = Vector2.zero;
-            }
+        // Stop momentum
+        if (player.TryGetComponent<Rigidbody2D>(out Rigidbody2D rb))
+        {
+            rb.linearVelocity = Vector2.zero;
         }
+
+        Debug.Log("Area Clear! Moving to next section.");
+    }
+
+    // Visualizes the detection range in the editor
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, detectionRadius);
     }
 }

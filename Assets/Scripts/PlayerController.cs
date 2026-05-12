@@ -10,6 +10,9 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
     public float groundCheckRadius = 0.2f;
 
+    [Header("Slow Settings")]
+    private float currentSlowMultiplier = 1f;
+
     [Header("Ledge Settings")]
     public Transform ledgeCheck;
     public Transform ledgeEmptyCheck;
@@ -57,6 +60,7 @@ public class PlayerController : MonoBehaviour
     private bool isAttacking = false;
     private bool isCrouching = false;
     private float originalGravity;
+
 
     void Start()
     {
@@ -123,7 +127,7 @@ public class PlayerController : MonoBehaviour
         if (isClimbing)
         {
             rb.gravityScale = 0;
-            rb.linearVelocity = new Vector2(0, verticalInput * climbSpeed);
+            rb.linearVelocity = new Vector2(0, verticalInput * climbSpeed * currentSlowMultiplier);
         }
 
         if (!isGrounded && Input.GetKey(KeyCode.S) && Input.GetKeyDown(KeyCode.J))
@@ -264,7 +268,7 @@ public class PlayerController : MonoBehaviour
         }
         else
         {
-            rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+            rb.linearVelocity = new Vector2(moveInput * moveSpeed * currentSlowMultiplier, rb.linearVelocity.y);
         }
     }
 
@@ -356,6 +360,26 @@ public class PlayerController : MonoBehaviour
         isStunned = true;
         stunTimer = duration;
         if (sr != null) sr.color = Color.green;
+    }
+
+    public void ApplySlow(float[] data)
+    {
+        float amount = data[0];
+        float duration = data[1];
+
+        StopCoroutine("SlowRoutine");
+        StartCoroutine(SlowRoutine(amount, duration));
+    }
+
+    private IEnumerator SlowRoutine(float amount, float duration)
+    {
+        currentSlowMultiplier = amount;
+        if (sr != null) sr.color = new Color(0.5f, 0.5f, 1f); // Tint blue/slow
+
+        yield return new WaitForSeconds(duration);
+
+        currentSlowMultiplier = 1f;
+        if (sr != null && !isStunned) sr.color = Color.white;
     }
 
     public void SetCanClimb(bool value)

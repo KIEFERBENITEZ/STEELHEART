@@ -6,9 +6,9 @@ public class CharacterEvolution : MonoBehaviour
     public RuntimeAnimatorController blessedAnimator;
 
     [Header("Blessed Stats Boost")]
-    public float newMoveSpeed = 8f;
-    public float newJumpForce = 10f;
-    public int newAttackDamage = 5;
+    public float newMoveSpeed = 6f;
+    public float newJumpForce = 7f;
+    public int newAttackDamage = 2;
 
     [Header("Blessed Skills")]
     public GameObject newAttackPrefab; // Your new magic projectile

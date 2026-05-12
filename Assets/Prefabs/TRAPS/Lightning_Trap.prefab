@@ -175,8 +175,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70a3f052f32cc9844a06b6debc026812, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LightningTrap
-  warningDuration: 0.5
-  activeDuration: 0.2
+  warningDuration: 0.1
+  activeDuration: 1
   damageAmount: 1
 --- !u!1 &2125631602416581944
 GameObject:

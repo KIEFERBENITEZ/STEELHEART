@@ -79,7 +79,7 @@ public class EnemyHealth : MonoBehaviour
         // 4. SMART DESTROY TIMER
         // If it's a boss (tagged Boss), give it more time. 
         // If it's a small enemy, destroy it faster.
-        float destroyDelay = gameObject.CompareTag("Boss") ? 3.0f : 1.5f;
+        float destroyDelay = gameObject.CompareTag("Enemy") ? 3.0f : 1.5f;
         Destroy(gameObject, destroyDelay);
     }
 

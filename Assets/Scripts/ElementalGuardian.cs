@@ -9,30 +9,57 @@ public class ElementalGuardian : MonoBehaviour
     public KeyCode interactKey = KeyCode.E;
 
     [Header("Timing Settings")]
-    // Set this to 5 in the Inspector
     public float chargeTime = 5.0f;
-    // Small delay so the Evolution happens during the 'Cast' animation
     public float castEffectDelay = 0.5f;
 
     private Animator anim;
     private bool hasInteracted = false;
+    private Transform playerTransform; // Store player to keep looking at them
 
     void Start() => anim = GetComponent<Animator>();
 
     void Update()
     {
-        if (hasInteracted) return;
-
-        // Check for player nearby
+        // 1. Check for player nearby
         Collider2D playerCollider = Physics2D.OverlapCircle(transform.position, detectRange, playerLayer);
 
         if (playerCollider != null)
         {
-            // You can show a "Press E" UI here
-            if (Input.GetKeyDown(interactKey))
+            playerTransform = playerCollider.transform;
+
+            // 2. FACE THE PLAYER
+            // Only flip if we haven't locked into the final animation sequence yet
+            if (!hasInteracted)
+            {
+                LookAtPlayer();
+            }
+
+            // 3. INTERACT
+            if (Input.GetKeyDown(interactKey) && !hasInteracted)
             {
                 StartCoroutine(InteractionSequence(playerCollider.gameObject));
             }
+        }
+    }
+
+    void LookAtPlayer()
+    {
+        if (playerTransform == null) return;
+
+        // Calculate direction
+        float directionX = playerTransform.position.x - transform.position.x;
+
+        // Flip Logic
+        // If she is looking away from the player, swap the '-' sign below
+        if (directionX > 0)
+        {
+            // Player is to the right
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        }
+        else
+        {
+            // Player is to the left
+            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
     }
 
@@ -40,46 +67,34 @@ public class ElementalGuardian : MonoBehaviour
     {
         hasInteracted = true;
 
-        // 1. FREEZE PLAYER 
-        // Prevents the player from walking away during the 5-second build-up
+        // FREEZE PLAYER 
         var moveScript = player.GetComponent<PlayerController>();
         if (moveScript != null) moveScript.enabled = false;
 
-        // 2. DIALOGUE
+        // DIALOGUE
         Debug.Log("Guardian: All the elemental guardians are dead...");
         yield return new WaitForSeconds(2f);
         Debug.Log("Guardian: I am the only one remaining. Take my power!");
 
-        // 3. START CHARGE ANIMATION
-        // Make sure EG_charge is set to LOOP in the animation file settings
+        // START CHARGE ANIMATION
         anim.SetTrigger("StartBlessing");
-        Debug.Log("Guardian is charging energy...");
 
-        // 4. THE LONG CHARGE (5 Seconds)
+        // THE LONG CHARGE (5 Seconds)
         yield return new WaitForSeconds(chargeTime);
 
-        // 5. TRIGGER CAST ANIMATION
-        // This tells the Animator to move from EG_charge to EG_cast
+        // TRIGGER CAST ANIMATION
         anim.SetTrigger("FinishBlessing");
-        Debug.Log("Guardian: BECOME THE LIGHT!");
 
-        // Wait a split second so the player sees the "Cast" pose before changing
         yield return new WaitForSeconds(castEffectDelay);
 
-        // 6. EVOLVE PLAYER
+        // EVOLVE PLAYER
         CharacterEvolution evo = player.GetComponent<CharacterEvolution>();
-        if (evo != null)
-        {
-            evo.EvolveToLightForm();
-        }
+        if (evo != null) evo.EvolveToLightForm();
 
-        // 7. UNFREEZE PLAYER
+        // UNFREEZE PLAYER
         if (moveScript != null) moveScript.enabled = true;
-
-        Debug.Log("The transformation is complete!");
     }
 
-    // Visualizes the interaction range in the Scene View (Cyan Circle)
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.cyan;

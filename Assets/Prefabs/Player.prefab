@@ -360,8 +360,10 @@ MonoBehaviour:
   ySnapOffset: 0.6
   slamSpeed: 25
   slamHangingTime: 0.2
+  isStunned: 0
   rollSpeed: 8
   crouchHeightPercent: 0.5
+  climbSpeed: 5
 --- !u!114 &3872428642528367209
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -390,6 +392,8 @@ MonoBehaviour:
   fireballCooldown: 5
   currentFireballs: 5
   maxFireballs: 5
+  crouchAttackDamage: 1
+  crouchAttackCooldown: 1.5
 --- !u!114 &6370416702887817389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -441,13 +445,13 @@ MonoBehaviour:
   chargeTime: 5
   prayKey: 112
   ultimateKey: 107
-  dashForce: 25
-  dashDuration: 0.5
+  dashForce: 15
+  dashDuration: 0.3
   dashDamage: 3
   enemyLayer:
     serializedVersion: 2
     m_Bits: 64
-  dashHitRadius: 0.7
+  dashHitRadius: 1
   spriteRenderer: {fileID: 3738575619821915203}
   normalColor: {r: 1, g: 1, b: 1, a: 1}
   chargingColor: {r: 0, g: 1, b: 1, a: 1}
