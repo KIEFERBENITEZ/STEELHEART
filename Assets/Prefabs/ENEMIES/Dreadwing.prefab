@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8855006873402364840}
   - component: {fileID: 6963321093251042503}
   - component: {fileID: 8997039156512861265}
+  - component: {fileID: -4906551517905821641}
   m_Layer: 6
   m_Name: Dreadwing
   m_TagString: Enemy
@@ -228,6 +229,22 @@ MonoBehaviour:
     m_Bits: 256
   attackPoint: {fileID: 3759269080451576255}
   avoidDistance: 4
+--- !u!114 &-4906551517905821641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2864525126998928433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82567c8cc1d3eed46a2c2100aa92e2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHeartUI
+  canvasPrefab: {fileID: 8971844896468643762, guid: d0bb22279dd6f6a46a0dc5765886e54b, type: 3}
+  heartPrefab: {fileID: 372309234315680555, guid: 98247a3622ce53e43b8c1fb84730f36e, type: 3}
+  fullHeart: {fileID: 21300000, guid: 155ada59b6db947479af89616fccd004, type: 2}
+  emptyHeart: {fileID: 21300000, guid: d80eeaa6f3046fb4aa168870c1a8e5f2, type: 2}
 --- !u!1 &4580412871584257724
 GameObject:
   m_ObjectHideFlags: 0

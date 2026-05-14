@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 4578132706212838435}
   - component: {fileID: 7087964763539492156}
   - component: {fileID: 4165775669114914199}
+  - component: {fileID: -7619342308802730793}
   m_Layer: 6
   m_Name: w3 skeleton
   m_TagString: Untagged
@@ -238,6 +239,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MinionDamage
   damage: 1
+--- !u!114 &-7619342308802730793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3234545794548277686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82567c8cc1d3eed46a2c2100aa92e2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHeartUI
+  canvasPrefab: {fileID: 8971844896468643762, guid: d0bb22279dd6f6a46a0dc5765886e54b, type: 3}
+  heartPrefab: {fileID: 372309234315680555, guid: 98247a3622ce53e43b8c1fb84730f36e, type: 3}
+  fullHeart: {fileID: 21300000, guid: 155ada59b6db947479af89616fccd004, type: 2}
+  emptyHeart: {fileID: 21300000, guid: d80eeaa6f3046fb4aa168870c1a8e5f2, type: 2}
 --- !u!1 &7956549851109664485
 GameObject:
   m_ObjectHideFlags: 0

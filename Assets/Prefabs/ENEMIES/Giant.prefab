@@ -255,7 +255,7 @@ MonoBehaviour:
   facingRightByDefault: 0
   attackCooldown: 5
   attackPoint: {fileID: 6828267770945388106}
-  attackRange: 1.5
+  attackRange: 2
   playerLayer:
     serializedVersion: 2
     m_Bits: 256

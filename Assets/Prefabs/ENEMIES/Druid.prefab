@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 885894550106666579}
   - component: {fileID: 3605870127006397208}
   - component: {fileID: 5536661548314617584}
+  - component: {fileID: 2860191910056509623}
   m_Layer: 6
   m_Name: Druid
   m_TagString: Enemy
@@ -258,3 +259,19 @@ MonoBehaviour:
   maxHealth: 4
   currentHealth: 0
   isDead: 0
+--- !u!114 &2860191910056509623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7926924978902000290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82567c8cc1d3eed46a2c2100aa92e2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHeartUI
+  canvasPrefab: {fileID: 8971844896468643762, guid: d0bb22279dd6f6a46a0dc5765886e54b, type: 3}
+  heartPrefab: {fileID: 372309234315680555, guid: 98247a3622ce53e43b8c1fb84730f36e, type: 3}
+  fullHeart: {fileID: 21300000, guid: 155ada59b6db947479af89616fccd004, type: 2}
+  emptyHeart: {fileID: 21300000, guid: d80eeaa6f3046fb4aa168870c1a8e5f2, type: 2}

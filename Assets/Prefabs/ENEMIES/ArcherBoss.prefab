@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 6472450411602831427}
   - component: {fileID: 5073017264896437388}
   - component: {fileID: 4797668954857471647}
+  - component: {fileID: 5064600134851618324}
   m_Layer: 6
   m_Name: ArcherBoss
   m_TagString: Enemy
@@ -164,11 +165,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f58e6c061d556a1449ba715c48580d55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArcherBoss
-  speed: 3
+  walkSpeed: 3.5
+  rushSpeed: 6.5
   meleeDist: 1.5
   stopDist: 6
-  cooldown: 4
+  bowCooldown: 3
+  meleeCooldown: 1.5
   isFacingRight: 1
+  stunTime: 2
   arrowPrefab: {fileID: 6340929275518542924, guid: dd675b398d446ab4db02452a48a96fce, type: 3}
   Firepoint: {fileID: 5482834941992183887}
   Meleepoint: {fileID: 8463944534130323204}
@@ -267,6 +271,22 @@ MonoBehaviour:
   maxHealth: 7
   currentHealth: 0
   isDead: 0
+--- !u!114 &5064600134851618324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2136427721024923365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82567c8cc1d3eed46a2c2100aa92e2eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyHeartUI
+  canvasPrefab: {fileID: 8682671348146954061, guid: d0bb22279dd6f6a46a0dc5765886e54b, type: 3}
+  heartPrefab: {fileID: 2604077665342279813, guid: 98247a3622ce53e43b8c1fb84730f36e, type: 3}
+  fullHeart: {fileID: 21300000, guid: 155ada59b6db947479af89616fccd004, type: 2}
+  emptyHeart: {fileID: 21300000, guid: d80eeaa6f3046fb4aa168870c1a8e5f2, type: 2}
 --- !u!1 &2716421544868625136
 GameObject:
   m_ObjectHideFlags: 0

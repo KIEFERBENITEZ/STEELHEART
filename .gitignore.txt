@@ -1,0 +1,5 @@
+/[Tt]emp/
+/[Ll]ibrary/
+/[Bb]uild/
+/[Obj]/
+/[Logs]/
